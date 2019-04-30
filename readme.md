@@ -28,6 +28,6 @@ La aplicación movil será usada nada más por los administradores de los estaci
 El usuario hará login y podrá dar de alta entradas o salidas de autos dependiendo del tipo de boleto que se haya configurado.
 
 -Requerimientos:
-  - Backend
-  - Frontend
-  - Móvil android
+  - Backend: NodeJS/Posgress/MongoDB
+  - Frontend: Angular
+  - Móvil: Kotlin
